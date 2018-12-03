@@ -5,9 +5,9 @@
   <subtitle>Developer</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://xywc-s.gitee.io/"/>
-  <updated>2018-11-30T14:12:05.512Z</updated>
-  <id>https://xywc-s.gitee.io/</id>
+  <link href="http://xywc-s.gitee.io/"/>
+  <updated>2018-12-03T06:48:13.608Z</updated>
+  <id>http://xywc-s.gitee.io/</id>
   
   <author>
     <name>曦雨微尘</name>
@@ -17,9 +17,38 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Chrome浏览器静默打印</title>
+    <link href="http://xywc-s.gitee.io/post-2.html"/>
+    <id>http://xywc-s.gitee.io/post-2.html</id>
+    <published>2018-12-03T06:29:59.000Z</published>
+    <updated>2018-12-03T06:48:13.608Z</updated>
+    
+    <content type="html"><![CDATA[<p>项目上遇到这么个需求：<code>使用浏览器打印时，直接打印内容<code></code></code></p><p>解释下需求，即使用浏览器打印时，默认会弹出打印预览，然后需要手动点击打印按钮，浏览器才会进入打印程序，执行打印；需求即不在预览页面手动点击打印，浏览器自动进入打印程序打印内容；或者干脆连打印预览都别弹出来，直接打印结果就好。</p><p>这个需求的前提就在于是调用的浏览器的打印，所以难点也在这里。查了很久没有找到合适的解决方案，总不能去获取打印预览页面上的打印按钮，然后通过js去执行click操作吧。</p><p>后来经过高人指点，发现Chrome浏览器可以配置一个参数解决这个问题，Chrome称之为<code>静默打印</code>。</p><a id="more"></a><p>如图，打开chrome快捷方式属性界面，在目标项后面添加 <code>--kiosk-printing</code> 即可.</p><p><img src="http://qn.xywc.xyz/post/2014-4-24-16-04-42.jpg" alt="--kiosk-printing"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;项目上遇到这么个需求：&lt;code&gt;使用浏览器打印时，直接打印内容&lt;code&gt;&lt;/code&gt;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;解释下需求，即使用浏览器打印时，默认会弹出打印预览，然后需要手动点击打印按钮，浏览器才会进入打印程序，执行打印；需求即不在预览页面手动点击打印，浏览器自动进入打印程序打印内容；或者干脆连打印预览都别弹出来，直接打印结果就好。&lt;/p&gt;
+&lt;p&gt;这个需求的前提就在于是调用的浏览器的打印，所以难点也在这里。查了很久没有找到合适的解决方案，总不能去获取打印预览页面上的打印按钮，然后通过js去执行click操作吧。&lt;/p&gt;
+&lt;p&gt;后来经过高人指点，发现Chrome浏览器可以配置一个参数解决这个问题，Chrome称之为&lt;code&gt;静默打印&lt;/code&gt;。&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="浏览器" scheme="http://xywc-s.gitee.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+    
+    
+      <category term="Chrome" scheme="http://xywc-s.gitee.io/tags/Chrome/"/>
+    
+      <category term="Print" scheme="http://xywc-s.gitee.io/tags/Print/"/>
+    
+      <category term="打印" scheme="http://xywc-s.gitee.io/tags/%E6%89%93%E5%8D%B0/"/>
+    
+  </entry>
+  
+  <entry>
     <title>神奇的 CSS3 混合模式</title>
-    <link href="https://xywc-s.gitee.io/post-1.html"/>
-    <id>https://xywc-s.gitee.io/post-1.html</id>
+    <link href="http://xywc-s.gitee.io/post-1.html"/>
+    <id>http://xywc-s.gitee.io/post-1.html</id>
     <published>2018-11-03T06:42:22.000Z</published>
     <updated>2018-11-30T14:12:05.512Z</updated>
     
@@ -40,12 +69,12 @@ table:nth-of-type(2) thead tr th:not(:nth-child(3)){
     
     </summary>
     
-      <category term="CSS" scheme="https://xywc-s.gitee.io/categories/CSS/"/>
+      <category term="CSS" scheme="http://xywc-s.gitee.io/categories/CSS/"/>
     
     
-      <category term="CSS" scheme="https://xywc-s.gitee.io/tags/CSS/"/>
+      <category term="CSS" scheme="http://xywc-s.gitee.io/tags/CSS/"/>
     
-      <category term="CSS混合模式" scheme="https://xywc-s.gitee.io/tags/CSS%E6%B7%B7%E5%90%88%E6%A8%A1%E5%BC%8F/"/>
+      <category term="CSS混合模式" scheme="http://xywc-s.gitee.io/tags/CSS%E6%B7%B7%E5%90%88%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
