@@ -5,9 +5,9 @@
   <subtitle>独立开发者|全栈攻城狮|曦雨微尘的博客</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://xywc-s.github.io/"/>
+  <link href="http://xywc.et-fun.com/"/>
   <updated>2020-01-20T07:35:14.993Z</updated>
-  <id>http://xywc-s.github.io/</id>
+  <id>http://xywc.et-fun.com/</id>
   
   <author>
     <name>曦雨微尘</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Chrome浏览器静默打印</title>
-    <link href="http://xywc-s.github.io/kiosk-printing.html"/>
-    <id>http://xywc-s.github.io/kiosk-printing.html</id>
+    <link href="http://xywc.et-fun.com/kiosk-printing.html"/>
+    <id>http://xywc.et-fun.com/kiosk-printing.html</id>
     <published>2018-12-03T06:29:59.000Z</published>
     <updated>2020-01-20T07:35:14.993Z</updated>
     
@@ -34,21 +34,21 @@
     
     </summary>
     
-      <category term="浏览器" scheme="http://xywc-s.github.io/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
+      <category term="浏览器" scheme="http://xywc.et-fun.com/categories/%E6%B5%8F%E8%A7%88%E5%99%A8/"/>
     
     
-      <category term="Chrome" scheme="http://xywc-s.github.io/tags/Chrome/"/>
+      <category term="Chrome" scheme="http://xywc.et-fun.com/tags/Chrome/"/>
     
-      <category term="Print" scheme="http://xywc-s.github.io/tags/Print/"/>
+      <category term="Print" scheme="http://xywc.et-fun.com/tags/Print/"/>
     
-      <category term="直接打印" scheme="http://xywc-s.github.io/tags/%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0/"/>
+      <category term="直接打印" scheme="http://xywc.et-fun.com/tags/%E7%9B%B4%E6%8E%A5%E6%89%93%E5%8D%B0/"/>
     
   </entry>
   
   <entry>
     <title>神奇的 CSS3 混合模式</title>
-    <link href="http://xywc-s.github.io/post-1.html"/>
-    <id>http://xywc-s.github.io/post-1.html</id>
+    <link href="http://xywc.et-fun.com/post-1.html"/>
+    <id>http://xywc.et-fun.com/post-1.html</id>
     <published>2018-11-03T06:42:22.000Z</published>
     <updated>2020-01-20T07:39:33.961Z</updated>
     
@@ -69,12 +69,12 @@ table:nth-of-type(2) thead tr th:not(:nth-child(3)){
     
     </summary>
     
-      <category term="CSS" scheme="http://xywc-s.github.io/categories/CSS/"/>
+      <category term="CSS" scheme="http://xywc.et-fun.com/categories/CSS/"/>
     
     
-      <category term="CSS" scheme="http://xywc-s.github.io/tags/CSS/"/>
+      <category term="CSS" scheme="http://xywc.et-fun.com/tags/CSS/"/>
     
-      <category term="CSS混合模式" scheme="http://xywc-s.github.io/tags/CSS%E6%B7%B7%E5%90%88%E6%A8%A1%E5%BC%8F/"/>
+      <category term="CSS混合模式" scheme="http://xywc.et-fun.com/tags/CSS%E6%B7%B7%E5%90%88%E6%A8%A1%E5%BC%8F/"/>
     
   </entry>
   
